@@ -28,7 +28,7 @@ Example:
 
 Design and code a contract for ETHPool, take all the assumptions you need to move forward.
 
-You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
+You can use any development tools you prefer: Foundry (preferred), Hardhat, Truffle, Brownie, Solidity, Vyper.
 
 Useful resources:
 
