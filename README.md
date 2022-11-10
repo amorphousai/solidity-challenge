@@ -11,7 +11,7 @@ ETHPool provides a service where people can deposit ETH and they will receive we
 #### Requirements
 
 - Only the team can deposit rewards.
-- Deposited rewards go to the users proportional to the amount of ETH each user has at the time the team deposits rewards (Note: both deposits and accrued rewards so far account for the total Eth of a user.  Or in other words, rewards automatically count as additional deposits for a user)
+- Deposited rewards go to the users proportional to the amount of ETH each user has at the time the team deposits rewards (Note: both deposits and accrued rewards so far account for the total Eth of a user.  Or in other words, rewards are automatically reinvested and count as additional deposits for a user)
 - Users should be able to withdraw at any time their deposits along with their share of rewards accrued so far.
 
 
